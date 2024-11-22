@@ -41,5 +41,7 @@ public class ContratacaoModel {
 
     public String getCampoExemplo() {
     return null;}
+
+
 }
 
